@@ -7,6 +7,11 @@
   </tr>
 </table>
 
+<a href="https://leonovandreww.github.io/Deadline/">
+  <img src="https://raw.githubusercontent.com/LeonovAndreww/LeonovAndreww/main/main-character.gif" width="128"/>
+</a>
+
+
 <!--
 **LeonovAndreww/LeonovAndreww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
