@@ -2,13 +2,14 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=LeonovAndreww&show_icons=true&theme=tokyonight" width="400"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonovAndreww&layout=compact&theme=tokyonight" width="360"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=LeonovAndreww&show_icons=true&theme=transparent" width="400"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonovAndreww&layout=compact&theme=transparent" width="305"/></td>
   </tr>
 </table>
 
 <a href="https://leonovandreww.github.io/Deadline/">
-  <img src="https://raw.githubusercontent.com/LeonovAndreww/LeonovAndreww/main/main-character.gif" width="128"/>
+  <img src="https://raw.githubusercontent.com/LeonovAndreww/LeonovAndreww/main/main-character.gif" width="64"/> 
+<-- click him
 </a>
 
 
