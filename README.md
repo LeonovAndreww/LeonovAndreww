@@ -7,9 +7,9 @@
   </tr>
 </table>
 
-<a href="https://leonovandreww.github.io/Deadline/" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/LeonovAndreww/LeonovAndreww/main/main-character.gif" width="64" style="vertical-align: middle;"/>
-  &larr; click him
+<a href="https://leonovandreww.github.io/Deadline/">
+  <img src="https://raw.githubusercontent.com/LeonovAndreww/LeonovAndreww/main/main-character.gif" width="64"/>
+ click him
 </a>
 
 <!--
