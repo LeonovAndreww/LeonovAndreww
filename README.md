@@ -1,4 +1,4 @@
-## Hello, world! 👋
+## Hello, world!
 
 <table>
   <tr>
@@ -6,11 +6,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonovAndreww&layout=compact&theme=transparent" width="305"/></td>
   </tr>
 </table>
-
-<a href="https://leonovandreww.github.io/Deadline/">
-  <img src="https://raw.githubusercontent.com/LeonovAndreww/LeonovAndreww/main/main-character.gif" width="64"/>
- click him
-</a>
 
 <!--
 **LeonovAndreww/LeonovAndreww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
