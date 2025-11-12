@@ -1,5 +1,3 @@
-## Hello, world!
-
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=LeonovAndreww&show_icons=true&theme=transparent" width="480"/></td>
