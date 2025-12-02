@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats-omega-nine-68.vercel.app/api?username=LeonovAndreww&show_icons=true&theme=transparent" width="480"/></td>
-    <td><img src="github-readme-stats-omega-nine-68.vercel.app/api/top-langs/?username=LeonovAndreww&layout=compact&theme=transparent" width="366"/></td>
+    <td><img src="https://github-readme-stats-omega-nine-68.vercel.app/api/top-langs/?username=LeonovAndreww&layout=compact&theme=transparent" width="366"/></td>
   </tr>
 </table>
 
